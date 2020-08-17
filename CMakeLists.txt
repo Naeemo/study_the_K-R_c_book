@@ -6,6 +6,7 @@ set(CMAKE_C_STANDARD 11)
 add_executable(1_1 1_A_Tutorial_introduction/ex1_1.c)
 add_executable(1_2 1_A_Tutorial_introduction/ex1_2.c)
 add_executable(1_3 1_A_Tutorial_introduction/ex1_3.c)
+add_executable(1_4 1_A_Tutorial_introduction/ex1_4.c)
 
 
 add_executable(1_7 1.7/ex_1_7.c)
